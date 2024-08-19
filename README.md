@@ -50,7 +50,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 unit testing -testing individuals components or module of software 
 integration testing -testing interactions between different components and subsystems
 system testing -testing the entire software system as whole 
-acceptance testing -testing software against user requirements to ensure it meets user needs
+acceptance testing -testing software against user requirements to ensure it meets user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
